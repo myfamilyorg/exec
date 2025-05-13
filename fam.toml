@@ -1,0 +1,5 @@
+[crate]
+	bin = "exec"
+[deps]
+	error = { git = "https://github.com/myfamilyorg/error" }
+	sys = { git = "https://github.com/myfamilyorg/sys" }
